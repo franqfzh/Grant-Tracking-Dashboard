@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'GrantTrackingDashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0DB2C98B7EE49D9A7FE3168CBCF446B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E35915BC2BF4710BBC45AC6FCB7A6C7 }}
           package: .
